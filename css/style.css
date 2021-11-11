@@ -40,19 +40,13 @@ header{
      text-decoration: none;
      font-weight: bold;
      font-size: 16px;
-     color:#4E92F9;    
+     line-height: 22px;
+     color:#4E92F9;
+     margin: 11px;  
+      
 }
-button{
-    background-color:#FFFFFF ;
-    color:#C381DB;
-    font-size: 16px;
-    line-height: 22px;
-    padding: 7px 16px;
-    border-radius: 8px;
-    border: 0;
-    margin-left: 10px;
 
-}
+
 
 /* end header */
 
@@ -83,6 +77,17 @@ p{
     padding-top: 144px;
     width: 470px;
     
+}
+
+button{
+    font-size: 16px;
+    font-weight: bold;
+    color: #FFFFFF;
+    border: 0;
+    padding: 7px 16px;
+    background: linear-gradient(112.77deg, #C381DB 0%, #4E92F9 100%);
+    border-radius: 8px;
+    cursor: pointer;
 }
 
 
