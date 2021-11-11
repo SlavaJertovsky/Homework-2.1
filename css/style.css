@@ -1,0 +1,110 @@
+body{
+    font-family: "Nunito", sans-serif;
+    margin: 0;
+    background-image:url(/img/background\ elements\ 2.png);
+    background-repeat:no-repeat;
+    font-weight: normal;
+    background-size: cover;  
+    color:#485466;  
+}
+
+
+h1, h2, p {
+    margin: 0;
+}
+
+/* header */
+header{
+    background-color:white;
+    box-sizing: border-box;
+    padding: 25px 0;
+       
+}
+
+.logo{
+    margin-left: -14px;
+    
+}
+
+
+.header-nav{
+    font-size: 16px;
+    text-decoration: none;
+    margin: 80px;
+    margin-left: -30px;
+    color:#485466;
+
+}
+
+.header-log{
+     text-decoration: none;
+     font-weight: bold;
+     font-size: 16px;
+     color:#4E92F9;    
+}
+button{
+    background-color:#FFFFFF ;
+    color:#C381DB;
+    font-size: 16px;
+    line-height: 22px;
+    padding: 7px 16px;
+    border-radius: 8px;
+    border: 0;
+    margin-left: 10px;
+
+}
+
+/* end header */
+
+/* main */
+
+h1{
+    font-weight: 700;
+    font-size: 51px;
+    line-height: 70px;
+    color:#4E92F9;
+    
+    
+}
+
+
+h2{
+    font-size: 40px;
+    line-height: 55px;
+    padding-bottom: 10px;
+}
+p{
+
+    font-size: 16px;
+    padding-bottom: 49px;
+}
+
+.text-block{
+    padding-top: 144px;
+    width: 470px;
+    
+}
+
+
+.right {
+    margin-left: -200px;   
+    
+}
+
+/* end  main */
+
+
+/* footer */
+.clients {
+    width: 1200px;
+    margin: auto;
+    margin-top: 60px;
+       
+}
+
+.log-img{
+    display: inline-block;
+    padding: 46px;  
+
+}
+/* end footer */
